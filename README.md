@@ -16,7 +16,6 @@ The repository is organized into the following folders:
 
 ### **AVL_Tree**
 
-
 ### **Binary Search Tree**
 
 ### **Diagonal Matrix**
